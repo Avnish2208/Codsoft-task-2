@@ -16,4 +16,4 @@ The focus is on layout design, responsiveness, and user-friendly UI.
 - **HTML5**
 - **CSS3**
 
-## 📂 Project Structure
+## 📂 LIVE DEMO - https://avnish2208.github.io/Codsoft-task-2/
